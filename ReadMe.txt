@@ -1,7 +1,7 @@
 Hi there! This is a description of three personal projects I have made in my free time in various ares of coding.
 
 Frog Game:
-A 2D platformer that I am making with my college roomate. It is in early stages of developement and has only baseline movement (including coyote time), animation, and collisions completed. It was made in game maker studio and we are currently porting it to unity to continue developement.
+A 2D platformer that I am making with my college roomate. It is in early stages of developement and has only baseline movement (including coyote time), animation, and collisions completed. It was made in game maker studio and we are currently porting it to unity to continue developement. We also used source control through GitHub to sychronize our work.
 
 Text_Huffman_Compression:
 A program that uses a text file as a key to create a huffman compression program and then compress/decompress another given text file using bit maniputaltion and a huffman tree. This was written with C in the mac terminal using vim.
